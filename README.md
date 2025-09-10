@@ -4,7 +4,7 @@
 
 - 🎓 Studying Computer Science & Engineering at UC Merced
 - 💻 Passionate about building reliable and efficient software
-- 🚀 Aspiring Software Developer, excited to learn and grow
+- 🚀 Aspiring Software Engineer, excited to learn and grow
 - 🌟 Interested in concurrency and performance optimization
 - 💬 Let's connect — I love talking code and new ideas!
 
