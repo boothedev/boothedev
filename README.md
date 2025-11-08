@@ -8,7 +8,7 @@
 - 🌟 Interested in concurrency and performance optimization
 - 💬 Let's connect — I love talking code and new ideas!
 
-### 🔧 Programming Languages
+### 🛠️ Programming Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -17,19 +17,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 
-### 🌐 Web Development
+### 📦 Frameworks & Databases
 
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-3f3f46?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![TanStack](https://img.shields.io/badge/TanStack-3D3D3E?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NjMgNjYwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzA2IDFjOS0yIDE4LTEgMjctMWEzMjQgMzI0IDAgMCAxIDIwNSA3MiAzMjcgMzI3IDAgMCAxLTI3IDUzNSAzMzQgMzM0IDAgMCAxLTMyOSAxOEEzMzAgMzMwIDAgMCAxIDI5MyAyaDRsOS0xek0xOTYgNTUwYy0xNSAyLTMxIDQtNDMgMTNoMzBjMTggMCAzNyAzIDU0IDggMjIgNiA0MSAxOCA2MiAyNiAyMyA4IDQ1IDExIDY5IDExIDEyIDAgMjQgMCAzNS0zLTYtNC0xNC0zLTIxLTRhMzA1IDMwNSAwIDAgMS03My0yNWwtNi0zLTI4LTEyYy0yNS05LTUzLTE0LTc5LTExem0yMi02M2MtMjkgMC01OSA2LTg1IDE5bC0xOCAxMS02IDVjMCAzIDIgNCAzIDZsMjAtMTBjNDUtMTcgMTAwLTE0IDE0NSAyIDIzIDggNDMgMjAgNjUgMjkgMjUgMTAgNTAgMTcgNzYgMjAgMzEgNCA2NyAxIDk1LTEzIDEwLTUgMjQtMTIgMjgtMjMtNSAwLTEwIDMtMTUgNGEyMzggMjM4IDAgMCAxLTE4Mi0xNmwtMy0xLTYtMy0zLTEtMzgtMTVjLTI0LTgtNTAtMTQtNzYtMTR6bTUxLTQ0OGMtMzUgOC02NiAyMy05NyA0Mi0xNyAxMS0zNCAyMi00OSAzN2EyOTkgMjk5IDAgMCAwLTg1IDI1N2M3IDM4IDE5IDc0IDQwIDEwNyA2LTMgMTEtMTAgMTctMTVhMjc3IDI3NyAwIDAgMSA1MS0zNGMyLTEgNS0yIDYtNCAyLTMtMS05LTItMTMtMS0xMC0yLTIwLTEtMzAgMC0zMCA2LTYwIDE2LTg4YTE5OCAxOTggMCAwIDEgNTAtNzNjMy0zIDctNiA5LTEwLTEwIDAtMjAgMy0zMCA2LTIxIDctNDIgMTYtNTkgMzAtOCA2LTE0IDE0LTIyIDIxLTIgMi02IDQtMTAgMy00LTItNC0xMi00LTE2LTItMTcgNC0zOCAxMi01MyAxMy0yNCAzNy00NCA2Ni00MyAxMiAwIDIzIDUgMzQgN2wtMTEtMTBjLTktOS0xOS0xNy0zMC0yMi00LTMtOS00LTE0LTYtMi0xLTUtMi02LTUtMi00IDctOSAxMC0xMSAxMy04IDI4LTE1IDQzLTE1IDIzLTEgNDYgMTMgNTYgMzUgNCA4IDUgMTYgNSAyNHY0bDEgMXYzYzctNiAxMi0xNSAyMC0yMSAxNi0xNSA0MC0yMiA2MS0xNSAyMCA2IDM3IDE5IDQ4IDM4IDIgNCAxMCAxNiA0IDIxLTQgMy05IDAtMTQtMWwtMTAtM2gtNGMtMTItMy0yNi0zLTM4IDBsLTIzIDV2MmE2MiA2MiAwIDAgMSA2MCA1NWMzIDEwIDEgMjItMiAzMi0xIDMtMiA5LTcgMTAtMiAxLTUtMi03LTRsLTEzLTE1LTQxLTMxYy03LTUtMTUtMTItMjMtMTVsNSAxN2MyIDE4LTUgMzYtMTcgNTAtMyA0LTcgOC0xMiAxMS0xIDItNCAzLTYgMy04LTEtOS0xMy0xMC0xOS00LTIwLTItMzkgMy01OS01IDMtOCA4LTExIDEyYTE3NiAxNzYgMCAwIDAtMTIgMTcxYzIgNSA2IDQgMTEgNGg0bDEzIDFjMiAwIDUgMCA3IDJzMSA1IDEgN2MtMiA3LTIgMTMtMiAyMCA5LTEgMTEtMTYgMTUtMjNsMTAtMjVjMi00IDQtOCA0LTEzLTEtNS01LTEwLTctMTUtNS04LTExLTE3LTE0LTI1LTMtNyAwLTE2IDgtMTkgNC0xIDkgMSAxMiA1IDYgNiAxMCAxNiAxNCAyNGwzNSA2MiA4IDE2IDUgNmMyIDEgNSAwIDctMWwxNy0zYzYtMSAxNi0xIDIxLTYtNy0yLTE1LTItMjItMi00IDEtOSAyLTEzIDAtNi00LTEwLTEzLTE0LTE5bC0yNi00NC0xLTItMy01LTQtN2MtMS0xLTMtNC0xLTYgMS0yIDUtMiA4LTJoNGMxMi0yIDI0LTMgMzctMy0xLTQtNC03LTMtMTEgMi04IDEzLTEwIDE5LTVsOCAxNCAxMCAxOCAxOCAzMiAxIDIgMSAyIDcgMTNjLTIxLTEtMzctMjUtNDYtNDFsMiA3YTgzIDgzIDAgMCAwIDIyIDM0YzEyIDggMjYgOCA0MCA3IDkgMCAxOS00IDI4LTEgOCAyIDEyIDEyIDcgMTktNCA1LTkgNy0xNSA4bDE0IDI4YzIgNCA0IDEwIDggMTNoMTBjLTMtOS05LTE1LTEyLTI0IDkgMSAxNyA1IDI1IDhsNDYgMTggOCAzIDE5IDhjMiAxIDUgMyA4IDJsNC02YTI4OSAyODkgMCAwIDAgMzktODlBMjk2IDI5NiAwIDAgMCAyNjkgMzl6bTEzNSA0MTFjLTE3IDUtMzUgOS01MyAxMSAyIDggOCAxNiAxMiAyMyAyIDMgMyA3IDcgOCAzIDEgOC0xIDExLTJsLTYtMTJjLTEtMi0zLTQtMi02IDEtNCA3LTQgMTEtNGwyNS02YzMtMSA4LTIgMTEtMSAyIDEgNCAyIDUgNWgxbDIgNGM0IDMgOSAzIDEzIDQtMi02LTctMTEtMTAtMTctMS00LTMtOS02LTExLTUtMy0xNiAzLTIxIDR6bS0xMTAtNDBjLTEgMTAtNCAxOS05IDI4bDE3IDIgMTIgNWMtMi03LTYtMTItOS0xOC00LTYtNy0xMy0xMS0xN3oiLz48L3N2Zz4=&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-030712?logo=tailwindcss&logoColor=00bcff&style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge)
-![Turso](https://img.shields.io/badge/Turso-121b22?logo=turso&logoColor=4FF8D2&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-### 🛠️ Software & Tools
+### 🧰 Software & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
