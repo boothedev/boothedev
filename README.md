@@ -16,6 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512bd4?logo=sharp&logoColor=white&style=for-the-badge)
 
 ### 📦 Frameworks & Databases
 
@@ -27,6 +28,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![.Net](https://img.shields.io/badge/.net-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 
 ### 🧰 Software & Tools
 
