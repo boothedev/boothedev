@@ -2,7 +2,7 @@
 
 ### And I'm..
 
-- 🎓 Studying Computer Science & Engineering at UC Merced
+- 🎓 Computer Science & Engineering Graduate from UC Merced
 - 💻 Passionate about building reliable and efficient software
 - 🚀 Aspiring Software Engineer, excited to learn and grow
 - 🌟 Interested in concurrency and performance optimization
