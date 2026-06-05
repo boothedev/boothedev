@@ -2,8 +2,6 @@
 
 And I'm a Software Engineer currently based in California. I specialize in Rust, Python, JavaScript, and modern web frameworks, and I'm passionate about building reliable software that solves real-world problems at scale.
 
-<img align="right" src="https://i.pinimg.com/originals/fb/56/8e/fb568e32c886579433b045201a5ff82e.gif" alt="Walking Pikachu" width="220" />
-
 ### 🌱 Life
 
 - **`B.S. in Computer Science and Engineering`** @ UC Merced
@@ -20,5 +18,7 @@ And I'm a Software Engineer currently based in California. I specialize in Rust,
 - **Strong interest:** `Software Engineering`, `Cloud DevOps`, and `Performance Optimization`
 
 ### 🧰 Tools
+
+<img align="right" src="https://i.pinimg.com/originals/fb/56/8e/fb568e32c886579433b045201a5ff82e.gif" alt="Walking Pikachu" width="250" />
 
 ![Tech Stack](https://skills.syvixor.com/api/icons?perline=6&i=python,javascript,typescript,rust,cpp,csharp,nodejs,reactjs,fastapi,flask,dotnet,langchain,linux,docker,flyio,cloudflare,amazonwebservices,discord,html,css3,tanstack,tailwindcss,shadcnui,jquery)
