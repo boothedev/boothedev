@@ -1,39 +1,24 @@
 # Hi, I'm Quang 👋
 
-### And I'm..
+And I'm a Software Engineer currently based in California. I specialize in Rust, Python, JavaScript, and modern web frameworks, and I'm passionate about building reliable software that solves real-world problems at scale.
 
-- 🎓 Computer Science & Engineering Graduate from UC Merced
-- 💻 Passionate about building reliable and efficient software
-- 🚀 Aspiring Software Engineer, excited to learn and grow
-- 🌟 Interested in concurrency and performance optimization
-- 💬 Let's connect — I love talking code and new ideas!
+<img align="right" src="https://i.pinimg.com/originals/fb/56/8e/fb568e32c886579433b045201a5ff82e.gif" alt="Walking Pikachu" width="220" />
 
-### 🛠️ Programming Languages
+### 🌱 Life
 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-512bd4?logo=sharp&logoColor=white&style=for-the-badge)
+- **`B.S. in Computer Science and Engineering`** @ UC Merced
+- **`A.S. in Computer Science`** @ Contra Costa College
+- **`Lead Full-Stack Developer Intern`** @ UC Merced
+- **`CompSci Teaching Assistant`** @ Contra Costa College
+- **`Founder & Team Lead`** @ YAM Community
+- **`Accounting Assistant`** @ Nor-cal Seafood
 
-### 📦 Frameworks & Databases
+### 🌟 Highlights
 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-3f3f46?logo=react&logoColor=61DAFB&style=for-the-badge)
-![TanStack](https://img.shields.io/badge/TanStack-3D3D3E?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NjMgNjYwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzA2IDFjOS0yIDE4LTEgMjctMWEzMjQgMzI0IDAgMCAxIDIwNSA3MiAzMjcgMzI3IDAgMCAxLTI3IDUzNSAzMzQgMzM0IDAgMCAxLTMyOSAxOEEzMzAgMzMwIDAgMCAxIDI5MyAyaDRsOS0xek0xOTYgNTUwYy0xNSAyLTMxIDQtNDMgMTNoMzBjMTggMCAzNyAzIDU0IDggMjIgNiA0MSAxOCA2MiAyNiAyMyA4IDQ1IDExIDY5IDExIDEyIDAgMjQgMCAzNS0zLTYtNC0xNC0zLTIxLTRhMzA1IDMwNSAwIDAgMS03My0yNWwtNi0zLTI4LTEyYy0yNS05LTUzLTE0LTc5LTExem0yMi02M2MtMjkgMC01OSA2LTg1IDE5bC0xOCAxMS02IDVjMCAzIDIgNCAzIDZsMjAtMTBjNDUtMTcgMTAwLTE0IDE0NSAyIDIzIDggNDMgMjAgNjUgMjkgMjUgMTAgNTAgMTcgNzYgMjAgMzEgNCA2NyAxIDk1LTEzIDEwLTUgMjQtMTIgMjgtMjMtNSAwLTEwIDMtMTUgNGEyMzggMjM4IDAgMCAxLTE4Mi0xNmwtMy0xLTYtMy0zLTEtMzgtMTVjLTI0LTgtNTAtMTQtNzYtMTR6bTUxLTQ0OGMtMzUgOC02NiAyMy05NyA0Mi0xNyAxMS0zNCAyMi00OSAzN2EyOTkgMjk5IDAgMCAwLTg1IDI1N2M3IDM4IDE5IDc0IDQwIDEwNyA2LTMgMTEtMTAgMTctMTVhMjc3IDI3NyAwIDAgMSA1MS0zNGMyLTEgNS0yIDYtNCAyLTMtMS05LTItMTMtMS0xMC0yLTIwLTEtMzAgMC0zMCA2LTYwIDE2LTg4YTE5OCAxOTggMCAwIDEgNTAtNzNjMy0zIDctNiA5LTEwLTEwIDAtMjAgMy0zMCA2LTIxIDctNDIgMTYtNTkgMzAtOCA2LTE0IDE0LTIyIDIxLTIgMi02IDQtMTAgMy00LTItNC0xMi00LTE2LTItMTcgNC0zOCAxMi01MyAxMy0yNCAzNy00NCA2Ni00MyAxMiAwIDIzIDUgMzQgN2wtMTEtMTBjLTktOS0xOS0xNy0zMC0yMi00LTMtOS00LTE0LTYtMi0xLTUtMi02LTUtMi00IDctOSAxMC0xMSAxMy04IDI4LTE1IDQzLTE1IDIzLTEgNDYgMTMgNTYgMzUgNCA4IDUgMTYgNSAyNHY0bDEgMXYzYzctNiAxMi0xNSAyMC0yMSAxNi0xNSA0MC0yMiA2MS0xNSAyMCA2IDM3IDE5IDQ4IDM4IDIgNCAxMCAxNiA0IDIxLTQgMy05IDAtMTQtMWwtMTAtM2gtNGMtMTItMy0yNi0zLTM4IDBsLTIzIDV2MmE2MiA2MiAwIDAgMSA2MCA1NWMzIDEwIDEgMjItMiAzMi0xIDMtMiA5LTcgMTAtMiAxLTUtMi03LTRsLTEzLTE1LTQxLTMxYy03LTUtMTUtMTItMjMtMTVsNSAxN2MyIDE4LTUgMzYtMTcgNTAtMyA0LTcgOC0xMiAxMS0xIDItNCAzLTYgMy04LTEtOS0xMy0xMC0xOS00LTIwLTItMzkgMy01OS01IDMtOCA4LTExIDEyYTE3NiAxNzYgMCAwIDAtMTIgMTcxYzIgNSA2IDQgMTEgNGg0bDEzIDFjMiAwIDUgMCA3IDJzMSA1IDEgN2MtMiA3LTIgMTMtMiAyMCA5LTEgMTEtMTYgMTUtMjNsMTAtMjVjMi00IDQtOCA0LTEzLTEtNS01LTEwLTctMTUtNS04LTExLTE3LTE0LTI1LTMtNyAwLTE2IDgtMTkgNC0xIDkgMSAxMiA1IDYgNiAxMCAxNiAxNCAyNGwzNSA2MiA4IDE2IDUgNmMyIDEgNSAwIDctMWwxNy0zYzYtMSAxNi0xIDIxLTYtNy0yLTE1LTItMjItMi00IDEtOSAyLTEzIDAtNi00LTEwLTEzLTE0LTE5bC0yNi00NC0xLTItMy01LTQtN2MtMS0xLTMtNC0xLTYgMS0yIDUtMiA4LTJoNGMxMi0yIDI0LTMgMzctMy0xLTQtNC03LTMtMTEgMi04IDEzLTEwIDE5LTVsOCAxNCAxMCAxOCAxOCAzMiAxIDIgMSAyIDcgMTNjLTIxLTEtMzctMjUtNDYtNDFsMiA3YTgzIDgzIDAgMCAwIDIyIDM0YzEyIDggMjYgOCA0MCA3IDkgMCAxOS00IDI4LTEgOCAyIDEyIDEyIDcgMTktNCA1LTkgNy0xNSA4bDE0IDI4YzIgNCA0IDEwIDggMTNoMTBjLTMtOS05LTE1LTEyLTI0IDkgMSAxNyA1IDI1IDhsNDYgMTggOCAzIDE5IDhjMiAxIDUgMyA4IDJsNC02YTI4OSAyODkgMCAwIDAgMzktODlBMjk2IDI5NiAwIDAgMCAyNjkgMzl6bTEzNSA0MTFjLTE3IDUtMzUgOS01MyAxMSAyIDggOCAxNiAxMiAyMyAyIDMgMyA3IDcgOCAzIDEgOC0xIDExLTJsLTYtMTJjLTEtMi0zLTQtMi02IDEtNCA3LTQgMTEtNGwyNS02YzMtMSA4LTIgMTEtMSAyIDEgNCAyIDUgNWgxbDIgNGM0IDMgOSAzIDEzIDQtMi02LTctMTEtMTAtMTctMS00LTMtOS02LTExLTUtMy0xNiAzLTIxIDR6bS0xMTAtNDBjLTEgMTAtNCAxOS05IDI4bDE3IDIgMTIgNWMtMi03LTYtMTItOS0xOC00LTYtNy0xMy0xMS0xN3oiLz48L3N2Zz4=&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-030712?logo=tailwindcss&logoColor=00bcff&style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![.Net](https://img.shields.io/badge/.net-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+- **Honors:** `Dean's List` ×5, `Chancellor's List`, `President Scholar`, `Graduation Highest Honor`
+- **Awards:** `#wimc scholarship`, `Phi Theta Kappa - Invitation`, `Innovate To Grow - Top Finisher`
+- **Strong interest:** `Software Engineering`, `Cloud DevOps`, and `Performance Optimization`
 
-### 🧰 Software & Tools
+### 🧰 Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMzAuODY1IDMuNDQ4bC02LjU4My0zLjE2N2MtMC43NjYtMC4zNy0xLjY3Ny0wLjIxNC0yLjI3NiAwLjM4NWwtMTIuNjA5IDExLjUwNS01LjQ5NS00LjE2N2MtMC41MS0wLjM5MS0xLjIyOS0wLjM1OS0xLjcwMyAwLjA3M2wtMS43NiAxLjYwNGMtMC41ODMgMC41MjYtMC41ODMgMS40NDMtMC4wMDUgMS45NjlsNC43NjYgNC4zNDktNC43NjYgNC4zNDljLTAuNTc4IDAuNTI2LTAuNTc4IDEuNDQzIDAuMDA1IDEuOTY5bDEuNzYgMS42MDRjMC40NzkgMC40MzIgMS4xOTMgMC40NjQgMS43MDMgMC4wNzNsNS40OTUtNC4xNzIgMTIuNjE1IDExLjUxYzAuNTk0IDAuNTk5IDEuNTA1IDAuNzU1IDIuMjcxIDAuMzg1bDYuNTg5LTMuMTcyYzAuNjkzLTAuMzMzIDEuMTMtMS4wMzEgMS4xMy0xLjgwMnYtMjEuNDk1YzAtMC43NjYtMC40NDMtMS40NjktMS4xMzUtMS44MDJ6TTI0LjAwNSAyMy4yNjZsLTkuNTczLTcuMjY2IDkuNTczLTcuMjY2eiIvPgo8L3N2Zz4=&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Tech Stack](https://skills.syvixor.com/api/icons?perline=6&i=python,javascript,typescript,rust,cpp,csharp,nodejs,reactjs,fastapi,flask,dotnet,langchain,linux,docker,flyio,cloudflare,amazonwebservices,discord,html,css3,tanstack,tailwindcss,shadcnui,jquery)
