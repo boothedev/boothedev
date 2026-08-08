@@ -6,9 +6,10 @@ And I'm a Software Engineer currently based in California. I specialize in Rust,
 
 - **`B.S. in Computer Science and Engineering`** @ UC Merced
 - **`A.S. in Computer Science`** @ Contra Costa College
+- **`Front End Developer`** @ Living Spaces Furniture
 - **`Lead Full-Stack Developer Intern`** @ UC Merced
 - **`CompSci Teaching Assistant`** @ Contra Costa College
-- **`Founder & Team Lead`** @ YAM Community
+- **`Founder & Community Manager`** @ YAM Community
 - **`Accounting Assistant`** @ Nor-cal Seafood
 
 ### 🌟 Highlights
