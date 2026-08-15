@@ -16,7 +16,7 @@ And I'm a Software Engineer currently based in California. I specialize in Rust,
 
 - **Honors:** `Dean's List` ×5, `Chancellor's List`, `President Scholar`, `Graduation Highest Honor`
 - **Awards:** `#wimc scholarship`, `Phi Theta Kappa - Invitation`, `Innovate To Grow - Top Finisher`
-- **Strong interest:** `Software Engineering`, `Cloud DevOps`, and `Performance Optimization`
+- **Strong interest:** `Software Development` and `Performance Optimization`
 
 ### 🧰 Tools
 
